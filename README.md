@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-aa&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-aa" /> </p>
 
 
-- 🔭 I’m currently working on **Smart Home with React Native and Firebase**
+- 🔭 I’m currently working on **a simple graphical user interface (GUI) library** in C.
 
 - 🌱 I’m currently learning **STM32**
 
